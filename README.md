@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://github.com/VICXOR/AvtechSploit">
-    //<img src="https://i.imgur.com/BpXNe9b.png" alt="Logo" width="80" height="80">
-    <img src="https://i.imgur.com/k1wxBoT.png" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/k1wxBoT.png" alt="Logo">
   </a>
 
   <h3 align="center">AvtechSploit</h3>
